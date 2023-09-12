@@ -1,4 +1,4 @@
-# Projeto: [TamanhosIguais](/github.com/memoriadecalculo/TamanhosIguais)
+# Projeto: [TamanhosIguais](http://github.com/memoriadecalculo/TamanhosIguais)
 
 Copyright (c) 2022 Memória de Cálculo <memoriadcalculo@gmail.com>
 
@@ -8,7 +8,7 @@ Este projeto verifica se os arquivos tem tamanhos iguais.
 
 ================================================================================
 
-# Project: [TamanhosIguais](/github.com/memoriadecalculo/TamanhosIguais)
+# Project: [TamanhosIguais](http://github.com/memoriadecalculo/TamanhosIguais)
 
 Copyright (c) 2022 Memória de Cálculo <memoriadcalculo@gmail.com>
 
